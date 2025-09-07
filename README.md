@@ -15,7 +15,7 @@ Website ini memiliki beberapa fitur menarik:
 - 🌙 **Mode Gelap/Terang** → tampilan bisa diubah sesuai preferensi.  
 - 🌍 **Dukungan Multi Bahasa (ID/EN)** → semua teks bisa berganti antara bahasa Indonesia dan Inggris.
 
-- # 🌐 Interactive Website with Features
+ # 🌐 Interactive Website with Features
 
 This project is a simple interactive website built using **HTML, Tailwind CSS, and JavaScript**.  
 It includes several fun and useful features:
